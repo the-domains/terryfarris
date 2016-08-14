@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[terryfarris]]></title>
+        <description><![CDATA[terryfarris]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 14 Aug 2016 18:54:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://itun.es/us/3DKYdb?i=1137330143</p>]]></description>
+            <link>undefinedhttpsitunesus3dkydbi1137330143/index.html</link>
+            <guid isPermaLink="false">f1b69486-a64e-450f-8a42-46ed1f019573</guid>
+            <pubDate>Sun, 14 Aug 2016 18:54:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
